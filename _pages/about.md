@@ -40,6 +40,6 @@ Others
 
 ### Activities
 * 2013.03\~2015.08: Android Developer, OpenYearRound (Wep/App development club), Sejong University
-* 2010.02\~2011.12: Sergant, Republic of Korea Defense Communication Command
+* 2010.02\~2011.12: Sergant, Defense Communication Command, Republic of Korea
 
 
