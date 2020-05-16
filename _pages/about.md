@@ -13,8 +13,8 @@ JaeYoung Hwang is currently a Ph.D. student at Sejong University in Seoul, Korea
 
 Journal Publication
 ------
-  1. J Hwang, A Aziz, N Sung, A Ahmad, F Le Gall, J Song, "AUTOCON-IoT: Automated and Scalable Online Conformance Testing for IoT Applications", IEEE Access, 2020, 02. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9016258)  
-  2. JY Hwang, JG An, A Aziz, JH Kim, SM Jeong, JS Song, "Interworking Models of Smart City with Heterogeneous Internet of Things Standards", IEEE Communications Magazine, 2019. 06. [IEEE](https://ieeexplore.ieee.org/abstract/document/8740798)  
+  1. <ins>**JY Hwang**</ins>, A Aziz, N Sung, A Ahmad, F Le Gall, J Song, "AUTOCON-IoT: Automated and Scalable Online Conformance Testing for IoT Applications", IEEE Access, 2020, 02. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9016258)  
+  2. <ins>**JY Hwang**</ins>, JG An, A Aziz, JH Kim, SM Jeong, JS Song, "Interworking Models of Smart City with Heterogeneous Internet of Things Standards", IEEE Communications Magazine, 2019. 06. [IEEE](https://ieeexplore.ieee.org/abstract/document/8740798)  
 
 
 Conference Publication
