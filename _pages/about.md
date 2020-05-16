@@ -10,18 +10,25 @@ redirect_from:
 
 JaeYoung Hwang is currently a Ph.D. student at Sejong University in Seoul, Korea. In 2015, he received a bachelor’s degree in Computer Engineering from the same university. He is a member of the Software Engineering and Security Lab (SESLab) at Sejong University. He was an assistant researcher at the Autonomous IoT Research Center of Korea Electronics Technology Institute (KETI) between 2016 and 2019 and conducted several IoT projects. His research interests include the 5G, IoT, edge computing, network function virtualization, and machine learning.
 
-
-Journal Publication
+Brief History
 ------
+2015.09~present: Combined M.S/Ph.D. Computer and Information Security, Sejong University, Seoul, Republic of Korea.
+2016.03~2020.02: Assistant researcher, Autonomous IoT Research Center, Korea Electronics Technology Institute (KETI), Sungnam, Republic of Korea.
+2009.03~2015.08: B.S. Computer Engineering, Sejong University, Seoul, Republic of Korea.
+
+
+Publications
+------
+### Journal Publication:
   1. <ins>**JY Hwang**</ins>, A Aziz, N Sung, A Ahmad, F Le Gall, J Song, "AUTOCON-IoT: Automated and Scalable Online Conformance Testing for IoT Applications", IEEE Access, 2020, 02. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9016258)  
-  2. <ins>**JY Hwang**</ins>, JG An, A Aziz, JH Kim, SM Jeong, JS Song, "Interworking Models of Smart City with Heterogeneous Internet of Things Standards", IEEE Communications Magazine, 2019. 06. [IEEE](https://ieeexplore.ieee.org/abstract/document/8740798)  
+  2. <ins>**JY Hwang**</ins>, JG An, A Aziz, JH Kim, SM Jeong, JS Song, "Interworking Models of Smart City with Heterogeneous Internet of Things Standards", IEEE Communications Magazine, 2019. 06. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8740798)  
 
-
-Conference Publication
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+### Conference Publication:
+  1. <ins>**JY Hwang**</ins>, A Aziz, N Sung, A Ahmad, F Le Gall, J Song, "AUTOCON-IoT: Automated and Scalable Online Conformance Testing for IoT Applications", IEEE Access, 2020, 02. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9016258)  
+  2. <ins>**JY Hwang**</ins>, JG An, A Aziz, JH Kim, SM Jeong, JS Song, "Interworking Models of Smart City with Heterogeneous Internet of Things Standards", IEEE Communications Magazine, 2019. 06. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8740798)
 
 
 Others
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+### Scholarships/awards:
+
