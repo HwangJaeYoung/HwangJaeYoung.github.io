@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "JaeYoung Hwang's homepage"
+title: "JaeYoung Hwang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+JaeYoung Hwang is currently a Ph.D. student at Sejong University in Seoul, Korea. In 2015, he received a bachelor’s degree in Computer Engineering from the same university. He is a member of the Software Engineering and Security Lab (SESLab) at Sejong University. He was an assistant researcher at the Autonomous IoT Research Center of Korea Electronics Technology Institute (KETI) between 2016 and 2019 and conducted several IoT projects. His research interests include the 5G, IoT, edge computing, network function virtualization, and machine learning.
 
 A data-driven personal website
 ======
