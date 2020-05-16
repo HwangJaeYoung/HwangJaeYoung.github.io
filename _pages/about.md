@@ -12,9 +12,9 @@ JaeYoung Hwang is currently a Ph.D. student at Sejong University in Seoul, Korea
 
 Brief History
 ------
-* 2015.09\~present: Combined M.S/Ph.D., Computer and Information Security, Sejong University, Seoul, Republic of Korea.  
-* 2016.03\~2020.02: Assistant researcher, Autonomous IoT Research Center, Korea Electronics Technology Institute (KETI), Sungnam, Republic of Korea.  
-* 2009.03\~2015.08: B.S., Computer Engineering, Sejong University, Seoul, Republic of Korea.
+* 2015.09\~present: Combined M.S/Ph.D., Computer and Information Security, Sejong University, Seoul, Republic of Korea  
+* 2016.03\~2020.02: Assistant researcher, Autonomous IoT Research Center, Korea Electronics Technology Institute (KETI), Sungnam, Republic of Korea  
+* 2009.03\~2015.08: B.S., Computer Engineering, Sejong University, Seoul, Republic of Korea
 
 Publications
 ------
@@ -37,7 +37,7 @@ Others
   1. JS Song, <ins>**JY Hwang**</ins>, JH Kim, SM Jung, "APPARATUS AND METHOD FOR TESTING MACHINE TO MACHINE APPLICATION (M2M 어플리케이션 테스트 장치 및 방법)", KR Patent (1020170127108), 2017. 09
 
 ### Scholarships/awards:
-* Academic Scholarship (4th ranked, 2012), Department of Computer Engineering, Sejoung University  
+* Academic Scholarship (4th ranked), Department of Computer Engineering, Sejoung University, 2012 
 
 ### Activities
 * 2013.03\~2015.08: Android Developer, OpenYearRound (Wep/App development club), Sejong University
