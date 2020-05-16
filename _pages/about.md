@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "JaeYoung Hwang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +15,6 @@ Brief History
 * 2015.09\~present: Combined M.S/Ph.D., Computer and Information Security, Sejong University, Seoul, Republic of Korea.  
 * 2016.03\~2020.02: Assistant researcher, Autonomous IoT Research Center, Korea Electronics Technology Institute (KETI), Sungnam, Republic of Korea.  
 * 2009.03\~2015.08: B.S., Computer Engineering, Sejong University, Seoul, Republic of Korea.
-
 
 Publications
 ------
