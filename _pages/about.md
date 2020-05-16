@@ -37,7 +37,7 @@ Others
   1. JS Song, <ins>**JY Hwang**</ins>, JH Kim, SM Jung, "APPARATUS AND METHOD FOR TESTING MACHINE TO MACHINE APPLICATION (M2M 어플리케이션 테스트 장치 및 방법)", KR Patent (1020170127108), 2017. 09
 
 ### Scholarships/awards:
-* 2012. 2nd Semester, Academic Scholarship (4th ranked)
+* Academic Scholarship (4th ranked, 2012), Department of Computer Engineering, Sejoung University  
 
 ### Activities
 * 2013.03\~2015.08: Android Developer, OpenYearRound (Wep/App development club), Sejong University
