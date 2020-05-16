@@ -13,10 +13,10 @@ JaeYoung Hwang is currently a Ph.D. student at Sejong University in Seoul, Korea
 
 Brief History
 ------
-
-2015.09\~present: Combined M.SPh.D. Computer and Information Security, Sejong University, Seoul, Republic of Korea.  
+2015.09\~present: Combined M.S/Ph.D., Computer and Information Security, Sejong University, Seoul, Republic of Korea.  
 2016.03\~2020.02: Assistant researcher, Autonomous IoT Research Center, Korea Electronics Technology Institute (KETI), Sungnam, Republic of Korea.  
-2009.03\~2015.08: B.S. Computer Engineering, Sejong University, Seoul, Republic of Korea.
+2009.03\~2015.08: B.S., Computer Engineering, Sejong University, Seoul, Republic of Korea.
+
 
 Publications
 ------
