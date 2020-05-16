@@ -27,7 +27,7 @@ Publications
   1. <ins>**JY Hwang**</ins>, NM Sung, SM Jeong, L Nkenyereye, JS Song, "An Open Source Conformance Testing Tool for Standardized IoT Platforms", Korean Society for Internet Information (KSII), 2018, 06. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9016258)  
   2. Jonggwan An, <ins>**JY Hwang**</ins> ; JaeSeung Song, "Interworking technique and architecture for connecting LAN IoT devices towards standardized IoT service layer platform", 2016 IEEE 5th Global Conference on Consumer Electronics, 2016. 05. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/7800513)
   
-  ### Magazine Publication:
+### Magazine Publication:
   1. <ins>**JY Hwang**</ins>, SM Jeong, JS Song, "Standard trends of smart cities (스마트시티 국내외 표준화 동향)", TTA Journal), 2018, 03. [[TTA]](https://www.tta.or.kr/data/reporthosulist_view.jsp?kind_num=1&hosu=176) 
 
 
@@ -37,5 +37,9 @@ Others
   1. JS Song, <ins>**JY Hwang**</ins>, JH Kim, SM Jung, "APPARATUS AND METHOD FOR TESTING MACHINE TO MACHINE APPLICATION (M2M 어플리케이션 테스트 장치 및 방법)", KR Patent (1020170127108), 2017. 09
 
 ### Scholarships/awards:
+
+### Activities
+* 2013.03\~2015.08: Android Developer, OpenYearRound (Wep/App development club), Sejong University
+* 2010.02\~2011.12: Sergant, Republic of Korea Defense Communication Command
 
 
