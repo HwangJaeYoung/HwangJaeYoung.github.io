@@ -61,7 +61,7 @@ Others
 * Academic Scholarship (4th ranked), Department of Computer Engineering, Sejong University, 2012 
 
 ### Standard contributions:
-* TS-0019 Abstract Test Suite & implementation eXtra Information for Test, oneM2M  
+* TS-0019: Abstract Test Suite & implementation eXtra Information for Test, oneM2M  
 
 ### Activities
 * 2013.03\~2015.08: Android Developer, OpenYearRound (Wep/App development club), Sejong University
