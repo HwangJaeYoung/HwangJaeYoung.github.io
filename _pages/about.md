@@ -60,6 +60,9 @@ Others
   
 * Academic Scholarship (4th ranked), Department of Computer Engineering, Sejoung University, 2012 
 
+### Standard contributins:
+* TS-0019 Abstract Test Suite & implementation eXtra Information for Test, oneM2M  
+
 ### Activities
 * 2013.03\~2015.08: Android Developer, OpenYearRound (Wep/App development club), Sejong University
 * 2014.01\~2014.02: Training course for web developers, Korea Software Technology Association (KOSTA)
