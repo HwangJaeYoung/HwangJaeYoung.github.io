@@ -34,7 +34,7 @@ Publications
 ### Conference Publication:
    1. SB Bae, <ins>**JY Hwang**</ins>, JS Song, "Towards Internet of Things Service Platform using Data Distributed Service Protocol (사물인터넷 플랫폼에서의 데이터 분산 서비스 프로토콜 적용 방안 연구)", Proceedings of Symposium of the Korean Institute of communications and Information Sciences, 2019. 01. [[KICS]](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08003618)  
   
-  2. <ins>**JY Hwang**</ins>, NM Sung, SM Jeong, L Nkenyereye, JS Song, "An Open Source Conformance Testing Tool for Standardized IoT Platforms", Korean Society for Internet Information (KSII), 2018, 06. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9016258)  
+  2. <ins>**JY Hwang**</ins>, NM Sung, SM Jeong, L Nkenyereye, JS Song, "An Open Source Conformance Testing Tool for Standardized IoT Platforms", The 13th Asis Pacific International Conference on Information Science and Technology (APIC-IST), 2018. 06. [[APICIST]](http://HwangJaeYoung.github.io/files/An_Open_Source_Conformance_Testing_Tool_for_Standardized_IoT_Platforms.pdf)  
   
   3. Jonggwan An, <ins>**JY Hwang**</ins> ; JaeSeung Song, "Interworking technique and architecture for connecting LAN IoT devices towards standardized IoT service layer platform", 2016 IEEE 5th Global Conference on Consumer Electronics, 2016. 05. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/7800513)
   
