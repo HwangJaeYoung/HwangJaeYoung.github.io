@@ -60,7 +60,7 @@ Others
   
 * Academic Scholarship (4th ranked), Department of Computer Engineering, Sejoung University, 2012 
 
-### Standard contributins:
+### Standard contributions:
 * TS-0019 Abstract Test Suite & implementation eXtra Information for Test, oneM2M  
 
 ### Activities
