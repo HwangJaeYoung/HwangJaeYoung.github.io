@@ -32,7 +32,7 @@ Publications
   6. <ins>**JY Hwang**</ins>, JG An, HT Joo, CH Lee, JS Song, "Development and Application of Interoperability Techniques with Semantics for Global Internet of Things (GIoTs) (시맨틱 기술을 활용한 글로벌 사물인터넷 상호연동 기술 개발 및 적용)", The Korean Institute of Communications and Information Sciences (KICS), 2017. 11.[[KICS]](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07274688)
 
 ### Conference Publication:
-    1. SB Bae, <ins>**JY Hwang**</ins>, JS Song, "Towards Internet of Things Service Platform using Data Distributed Service Protocol (사물인터넷 플랫폼에서의 데이터 분산 서비스 프로토콜 적용 방안 연구)", Proceedings of Symposium of the Korean Institute of communications and Information Sciences, 2019. 01. [[KICS]](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08003618)  
+   1. SB Bae, <ins>**JY Hwang**</ins>, JS Song, "Towards Internet of Things Service Platform using Data Distributed Service Protocol (사물인터넷 플랫폼에서의 데이터 분산 서비스 프로토콜 적용 방안 연구)", Proceedings of Symposium of the Korean Institute of communications and Information Sciences, 2019. 01. [[KICS]](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08003618)  
   
   2. <ins>**JY Hwang**</ins>, NM Sung, SM Jeong, L Nkenyereye, JS Song, "An Open Source Conformance Testing Tool for Standardized IoT Platforms", Korean Society for Internet Information (KSII), 2018, 06. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9016258)  
   
