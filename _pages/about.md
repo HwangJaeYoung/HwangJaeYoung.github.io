@@ -29,7 +29,7 @@ Publications
   
   5. Hiun Kim; Abbas Ahmad ; <ins>**JY Hwang**</ins> ; Hamza Baqa ; Franck Le Gall ; Miguel Angel Reina Ortega, JaeSeung Song, "IoT-TaaS: Towards a Prospective IoT Testing Framework", IEEE Access, 2018. 02. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8281514)  
   
-  6. <ins>**JY Hwang**</ins>, JG An, HT Joo, CH Lee, JS Song, "Development and Application of Interoperability Techniques with Semantics for Global Internet of Things (GIoTs) (시맨틱 기술을 활용한 글로벌 사물인터넷 상호연동 기술 개발 및 적용)", The Korean Institute of Communications and Information Sciences (KICS), 2017. 11.[[KICS]](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07274688)
+  6. <ins>**JY Hwang**</ins>, JG An, HT Joo, CH Lee, JS Song, "Development and Application of Interoperability Techniques with Semantics for Global Internet of Things (GIoTs) (시맨틱 기술을 활용한 글로벌 사물인터넷 상호연동 기술 개발 및 적용)", The Korean Institute of Communications and Information Sciences (KICS), 2017. 11. [[KICS]](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07274688)
 
 ### Conference Publication:
    1. SB Bae, <ins>**JY Hwang**</ins>, JS Song, "Towards Internet of Things Service Platform using Data Distributed Service Protocol (사물인터넷 플랫폼에서의 데이터 분산 서비스 프로토콜 적용 방안 연구)", Proceedings of Symposium of the Korean Institute of communications and Information Sciences, 2019. 01. [[KICS]](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08003618)  
@@ -62,7 +62,7 @@ Others
 
 ### Activities
 * 2013.03\~2015.08: Android Developer, OpenYearRound (Wep/App development club), Sejong University
-* 2014.01\~2014.02: Training course for web developers,Korea Software Technology Association (KOSTA)
+* 2014.01\~2014.02: Training course for web developers, Korea Software Technology Association (KOSTA)
 * 2010.02\~2011.12: Sergant, Defense Communication Command, Republic of Korea
 
 ### Download CV
