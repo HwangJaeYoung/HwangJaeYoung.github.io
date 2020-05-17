@@ -58,7 +58,7 @@ Others
   * Role-playing game development (Unity 3D)
   * Game character modeling (3DS Max)
   
-* Academic Scholarship (4th ranked), Department of Computer Engineering, Sejoung University, 2012 
+* Academic Scholarship (4th ranked), Department of Computer Engineering, Sejong University, 2012 
 
 ### Standard contributions:
 * TS-0019 Abstract Test Suite & implementation eXtra Information for Test, oneM2M  
