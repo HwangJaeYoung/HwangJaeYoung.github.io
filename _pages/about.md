@@ -48,6 +48,17 @@ Others
   1. JS Song, <ins>**JY Hwang**</ins>, JH Kim, SM Jung, "APPARATUS AND METHOD FOR TESTING MACHINE TO MACHINE APPLICATION (M2M 어플리케이션 테스트 장치 및 방법)", KR Patent (1020170127108), 2017. 09
 
 ### Scholarships/awards:
+
+* Meteorological Industry Start-up Contest (1st prize, awarded by KMA administrator), Korea Meteorological Administration (KMA), 2014. 12
+  * Prototype development of Web/App Service using weather big data
+
+* Sejong University Software Competition (2nd prize), Department of Computer Engineering, Sejoung University, 2014. 12
+  * Music service application development using weather data
+
+* Sejong University Software Competition (2nd prize), Department of Computer Engineering, Sejoung University, 2013. 12
+  * Role Playing Game Development (Unity 3D)
+  * Game characters modeling (3DS Max)
+  
 * Academic Scholarship (4th ranked), Department of Computer Engineering, Sejoung University, 2012 
 
 ### Activities
