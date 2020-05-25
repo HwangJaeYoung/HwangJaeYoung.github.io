@@ -33,11 +33,13 @@ Publications
   6. <ins>**JY Hwang**</ins>, JG An, HT Joo, CH Lee, JS Song, "Development and Application of Interoperability Techniques with Semantics for Global Internet of Things (GIoTs) (시맨틱 기술을 활용한 글로벌 사물인터넷 상호연동 기술 개발 및 적용)", The Korean Institute of Communications and Information Sciences (KICS), 2017. 11. [[KICS]](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07274688)
 
 ### Conference Publication:
-   1. SB Bae, <ins>**JY Hwang**</ins>, JS Song, "Towards Internet of Things Service Platform using Data Distributed Service Protocol (사물인터넷 플랫폼에서의 데이터 분산 서비스 프로토콜 적용 방안 연구)", Proceedings of Symposium of the Korean Institute of communications and Information Sciences, 2019. 01. [[KICS]](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08003618)  
+   1. H Son, S Elamanov, R Nadia, J Hwang, J Song, J Kim, "Modbus and IoT Platform Interworking for Smart Energy Management", 2019 IEEE International Conference on Industrial Internet (ICII), 2019. 11. [[IEEE]]https://ieeexplore.ieee.org/abstract/document/9065020)  
+   
+   2. SB Bae, <ins>**JY Hwang**</ins>, JS Song, "Towards Internet of Things Service Platform using Data Distributed Service Protocol (사물인터넷 플랫폼에서의 데이터 분산 서비스 프로토콜 적용 방안 연구)", Proceedings of Symposium of the Korean Institute of communications and Information Sciences, 2019. 01. [[KICS]](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08003618)  
   
-  2. <ins>**JY Hwang**</ins>, NM Sung, SM Jeong, L Nkenyereye, JS Song, "An Open Source Conformance Testing Tool for Standardized IoT Platforms", The 13th Asis Pacific International Conference on Information Science and Technology (APIC-IST), 2018. 06. [[APICIST]](http://HwangJaeYoung.github.io/files/An_Open_Source_Conformance_Testing_Tool_for_Standardized_IoT_Platforms.pdf)  
+  3. <ins>**JY Hwang**</ins>, NM Sung, SM Jeong, L Nkenyereye, JS Song, "An Open Source Conformance Testing Tool for Standardized IoT Platforms", The 13th Asis Pacific International Conference on Information Science and Technology (APIC-IST), 2018. 06. [[APICIST]](http://HwangJaeYoung.github.io/files/An_Open_Source_Conformance_Testing_Tool_for_Standardized_IoT_Platforms.pdf)  
   
-  3. Jonggwan An, <ins>**JY Hwang**</ins> ; JaeSeung Song, "Interworking technique and architecture for connecting LAN IoT devices towards standardized IoT service layer platform", 2016 IEEE 5th Global Conference on Consumer Electronics, 2016. 05. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/7800513)
+  4. Jonggwan An, <ins>**JY Hwang**</ins> ; JaeSeung Song, "Interworking technique and architecture for connecting LAN IoT devices towards standardized IoT service layer platform", 2016 IEEE 5th Global Conference on Consumer Electronics, 2016. 05. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/7800513)
   
 ### Magazine Publication:
   1. <ins>**JY Hwang**</ins>, SM Jeong, JS Song, "Standard trends of smart cities (스마트시티 국내외 표준화 동향)", TTA Journal), 2018, 03. [[TTA]](https://www.tta.or.kr/data/reporthosulist_view.jsp?kind_num=1&hosu=176) 
