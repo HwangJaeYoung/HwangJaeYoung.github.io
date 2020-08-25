@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "JaeYoung Hwang"
 title_separator          : "-"
-name                     : &name "JaeYoung Hwang" &nbsp;&nbsp;
+name                     : &name "JaeYoung Hwang ljilijlij" &nbsp;&nbsp;
 description              : &description "personal description"
 url                      : https://hwangjaeyoung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
