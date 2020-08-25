@@ -1,22 +1,3 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-Publications
-------
 ### Journal Publication:
   1. <ins>**JY Hwang**</ins>, A Aziz, N Sung, A Ahmad, F Le Gall, J Song, "AUTOCON-IoT: Automated and Scalable Online Conformance Testing for IoT Applications", IEEE Access, 2020, 02. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9016258)  
   
