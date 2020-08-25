@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "JaeYoung Hwang"
   avatar           : "jyh_1.jpg"
-  bio              : "Ph.D candidate, Sejong University"
+  # bio              : "Ph.D candidate, Sejong University"
   location         : "Seoul, South Korea"
   employer         :
   # pubmed         : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
