@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JaeYoung Hwang      "
+title                    : "JaeYoung Hwang" &nbsp;&nbsp;
 title_separator          : "-"
 name                     : &name "JaeYoung Hwang"
 description              : &description "personal description"
