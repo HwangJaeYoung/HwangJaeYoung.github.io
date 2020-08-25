@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ## Journal Publication:
   1. <ins>**JY Hwang**</ins>, A Aziz, N Sung, A Ahmad, F Le Gall, J Song, "AUTOCON-IoT: Automated and Scalable Online Conformance Testing for IoT Applications", IEEE Access, 2020, 02. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9016258)  
   
