@@ -18,6 +18,7 @@ Brief History
 * 2009.03\~2015.08: B.S., Computer Engineering, Sejong University, Seoul, Republic of Korea
 
 ### Download CV
+------
 [JaeYoung Hwang's CV.pdf](https://scholar.google.com/citations?user=YR7eXtUAAAAJ&hl=ko)
 
 
