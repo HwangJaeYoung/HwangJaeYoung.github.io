@@ -5,6 +5,8 @@ permalink: /other/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ## Patent:
   1. JS Song, <ins>**JY Hwang**</ins>, JH Kim, SM Jung, "APPARATUS AND METHOD FOR TESTING MACHINE TO MACHINE APPLICATION (M2M 어플리케이션 테스트 장치 및 방법)", KR Patent (1020170127108), 2017. 09
 
