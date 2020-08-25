@@ -19,6 +19,6 @@ Brief History
 
 ### Download CV
 ------
-[JaeYoung Hwang's CV.pdf](https://scholar.google.com/citations?user=YR7eXtUAAAAJ&hl=ko)
+[JaeYoung Hwang's CV.pdf](http://HwangJaeYoung.github.io/files/JaeYoung Hwang.pdf)
 
 
