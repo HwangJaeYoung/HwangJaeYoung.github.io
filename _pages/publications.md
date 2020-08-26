@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Publication:
-  1. "IoT service slicing and task offloading for edge computing", <ins>**JY Hwang**</ins>, L Nkenyereye, NM Sung, JH Kim, JS Song , Under revision, 2020. 08. [[ARXIV]](https://arxiv.org/abs/2008.10210)
+  1. "IoT service slicing and task offloading for edge computing", <ins>**JY Hwang**</ins>, L Nkenyereye, NM Sung, JH Kim, JS Song, Under revision, 2020. 08. [[ARXIV]](https://arxiv.org/abs/2008.10210)
 
   2. "oneM2M-MEC-5G interworking using edge computing (Edge 컴퓨팅 기능을 활용한 oneM2M-MEC-5G 인터워킹)", HS Son, <ins>**JY Hwang**</ins>, JS Song, TTA Journal, 2020. 05. [[TTA Journal]](https://www.tta.or.kr/data/reporthosulist_view.jsp?kind_num=1&hosu=189)
   
@@ -22,7 +22,7 @@ author_profile: true
   
   7. "Standard trends of smart cities (스마트시티 국내외 표준화 동향)", TTA Journal), <ins>**JY Hwang**</ins>, SM Jeong, JS Song, 2018. 03. [[TTA]](https://www.tta.or.kr/data/reporthosulist_view.jsp?kind_num=1&hosu=176)
   
-  8. "IoT-TaaS: Towards a Prospective IoT Testing Framework", Hiun Kim; Abbas Ahmad ; <ins>**JY Hwang**</ins> ; Hamza Baqa ; Franck Le Gall ; Miguel Angel Reina Ortega, JaeSeung Song, IEEE Access, 2018. 02. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8281514)  
+  8. "IoT-TaaS: Towards a Prospective IoT Testing Framework", Hiun Kim, Abbas Ahmad, <ins>**JY Hwang**</ins>, Hamza Baqa, Franck Le Gall, Miguel Angel Reina Ortega, JaeSeung Song, IEEE Access, 2018. 02. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8281514)  
   
   9. "Development and Application of Interoperability Techniques with Semantics for Global Internet of Things (GIoTs) (시맨틱 기술을 활용한 글로벌 사물인터넷 상호연동 기술 개발 및 적용)", <ins>**JY Hwang**</ins>, JG An, HT Joo, CH Lee, JS Song, The Korean Institute of Communications and Information Sciences (KICS), 2017. 11. [[KICS]](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07274688)
 
