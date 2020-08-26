@@ -41,7 +41,7 @@ oneM2MTester project is an oneM2M conformance testing project which was initiali
 
 
 ### Wolrdwide interobability for semantics IoT (Wise-IoT) [14/02/2016 - 23/02/2018]
-Wise-IoT is a collaboration project between Europe and Korea. It aims at deepening the interoperability and interworking of IoT existing systems. The project uses the experiences available in the consortium to build a comprehensive mediation framework that can be used between various IoT systems.
+Wise-IoT is a collaboration project between Europe and Korea. It aims at deepening the interoperability and interworking of IoT's existing systems. The project uses the experiences available in the consortium to build a comprehensive mediation framework that can be used between various IoT systems.
 
   * Role:
     * Analyzing the oneM2M and FIWARE IoT standard
