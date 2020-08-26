@@ -10,11 +10,11 @@ author_profile: true
 ## Journal Publication:
   1. "IoT service slicing and task offloading for edge computing", <ins>**JY Hwang**</ins>, L Nkenyereye, NM Sung, JH Kim, JS Song , Under revision, 2020. 08. [[ARXIV]](https://arxiv.org/abs/2008.10210)
 
-  2. oneM2M-MEC-5G interworking using edge computing (Edge 컴퓨팅 기능을 활용한 oneM2M-MEC-5G 인터워킹), HS Son, <ins>**JY Hwang**</ins>, JS Song, TTA Journal, 2020. 05. [[TTA Journal]](https://www.tta.or.kr/data/reporthosulist_view.jsp?kind_num=1&hosu=189)
+  2. "oneM2M-MEC-5G interworking using edge computing (Edge 컴퓨팅 기능을 활용한 oneM2M-MEC-5G 인터워킹)", HS Son, <ins>**JY Hwang**</ins>, JS Song, TTA Journal, 2020. 05. [[TTA Journal]](https://www.tta.or.kr/data/reporthosulist_view.jsp?kind_num=1&hosu=189)
   
   3. "AUTOCON-IoT: Automated and Scalable Online Conformance Testing for IoT Applications", <ins>**JY Hwang**</ins>, A Aziz, N Sung, A Ahmad, F Le Gall, J Song, IEEE Access, 2020. 02. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9016258)  
   
-  4. "Internet of Things Identification and Edge Gateway Architecture for Smart City Infrastructure Management (스마트 시티 인프라 관리를 위한 사물인터넷 식별체계 및 엣지 게이트웨이 아키텍처", <ins>**JY Hwang**</ins>, HS Son, NM Sung, JH Kim, JS Song, The Korean Institute of Communications and Information Sciences (KICS), 2019. 10. [[KICS]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09221730)  
+  4. "Internet of Things Identification and Edge Gateway Architecture for Smart City Infrastructure Management (스마트 시티 인프라 관리를 위한 사물인터넷 식별체계 및 엣지 게이트웨이 아키텍처)", <ins>**JY Hwang**</ins>, HS Son, NM Sung, JH Kim, JS Song, The Korean Institute of Communications and Information Sciences (KICS), 2019. 10. [[KICS]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09221730)  
   
   5. "Interworking Models of Smart City with Heterogeneous Internet of Things Standards", <ins>**JY Hwang**</ins>, JG An, A Aziz, JH Kim, SM Jeong, JS Song, IEEE Communications Magazine, 2019. 06. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8740798)  
   
