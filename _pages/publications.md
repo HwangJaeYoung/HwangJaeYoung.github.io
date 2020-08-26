@@ -33,4 +33,4 @@ author_profile: true
   
   3. "An Open Source Conformance Testing Tool for Standardized IoT Platforms", <ins>**JY Hwang**</ins>, NM Sung, SM Jeong, L Nkenyereye, JS Song, The 13th Asis Pacific International Conference on Information Science and Technology (APIC-IST), 2018. 06. [[APICIST]](http://HwangJaeYoung.github.io/files/An_Open_Source_Conformance_Testing_Tool_for_Standardized_IoT_Platforms.pdf)  
   
-  4. "Interworking technique and architecture for connecting LAN IoT devices towards standardized IoT service layer platform", Jonggwan An, <ins>**JY Hwang**</ins> ; JaeSeung Song, 2016 IEEE 5th Global Conference on Consumer Electronics, 2016. 05. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/7800513)
+  4. "Interworking technique and architecture for connecting LAN IoT devices towards standardized IoT service layer platform", Jonggwan An, <ins>**JY Hwang**</ins>, JaeSeung Song, 2016 IEEE 5th Global Conference on Consumer Electronics, 2016. 05. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/7800513)
