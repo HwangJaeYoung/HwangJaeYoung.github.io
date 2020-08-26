@@ -20,7 +20,7 @@ author_profile: true
   
   6. "Toward global IoT-enabled smart cities interworking using adaptive semantic adapter", Jonggwan An, Franck Le Gall, Jaeho Kim, Jaeseok Yun, <ins>**JY Hwang**</ins>, Martin Bauer, Mengxuan Zhao, Jaeseung Song, IEEE Internet of Things Journal, 2019. 03. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8667627)  
   
-  7. "Standard trends of smart cities (스마트시티 국내외 표준화 동향)", TTA Journal), <ins>**JY Hwang**</ins>, SM Jeong, JS Song, 2018. 03. [[TTA]](https://www.tta.or.kr/data/reporthosulist_view.jsp?kind_num=1&hosu=176)
+  7. "Standard trends of smart cities (스마트시티 국내외 표준화 동향)", TTA Journal, <ins>**JY Hwang**</ins>, SM Jeong, JS Song, 2018. 03. [[TTA Journal]](https://www.tta.or.kr/data/reporthosulist_view.jsp?kind_num=1&hosu=176)
   
   8. "IoT-TaaS: Towards a Prospective IoT Testing Framework", Hiun Kim, Abbas Ahmad, <ins>**JY Hwang**</ins>, Hamza Baqa, Franck Le Gall, Miguel Angel Reina Ortega, JaeSeung Song, IEEE Access, 2018. 02. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8281514)  
   
