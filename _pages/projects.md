@@ -32,16 +32,17 @@ Secure smart city data by operating real smart city test bed using IoT technolog
 
 
 ### An open source oneM2M conformance testing tool project [22/02/2017 - 16/05/2018]
-oneM2MTester project is a oneM2M conformance testing project which was initialized by Korea Electronics Technology Institute (KETI) in January 2016.The project aims to develop and distribute an open source oneM2M conformance testing tool and associated user manuals. Currently, this tool is introduced as a useful opensource project in oneM2M (http://onem2m.org/developers-corner/tools/open-source-projects)
+oneM2MTester project is an oneM2M conformance testing project which was initialized by Korea Electronics Technology Institute (KETI) in January 2016. The project aims to develop and distribute an open source oneM2M conformance testing tool and associated user manuals. Currently, this tool is introduced as a useful opensource project in oneM2M (http://onem2m.org/developers-corner/tools/open-source-projects)
 
  * Role:
-   * oneM2MTester main contributor
+   * oneM2MTester main contributor.
    * The TTCN-3 based oneM2M testing code verification which is being developed by ETSI.
+   * Cooperation with external organizations such as TTA, ETSI, and Ericsson to develop oneM2M testing tool.
 
 
 ### Wolrdwide interobability for semantics IoT (Wise-IoT) [14/02/2016 - 23/02/2018]
-Wise-IoT is a collaboration project between Europe and Korea. For EU side, it is funded under the H2020 framework program for research of the European Commission. It aims at deepening the interoperability and interworking of IoT existing systems. Use cases driven, the project will use the experiences available in the consortium to build a comprehensive mediation framework that can be used between various IoT systems.
+Wise-IoT is a collaboration project between Europe and Korea. It aims at deepening the interoperability and interworking of IoT existing systems. The project uses the experiences available in the consortium to build a comprehensive mediation framework that can be used between various IoT systems.
 
   * Role:
-    * Analyzing the oneM2M and FIWARE
+    * Analyzing the oneM2M and FIWARE IoT standard
     * Developing the Interworking Proxy Entity (IPE) for oneM2M-FIWARE interworking
