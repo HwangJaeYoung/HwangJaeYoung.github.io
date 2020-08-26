@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Publication:
-  1. "IoT service slicing and task offloading for edge computing", <ins>**JY Hwang**</ins>, L Nkenyereye, NM Sung, JH Kim, JS Song, Under revision, 2020. 08. [[ARXIV]](https://arxiv.org/abs/2008.10210)
+  1. "IoT service slicing and task offloading for edge computing", <ins>**JY Hwang**</ins>, L Nkenyereye, NM Sung, JH Kim, JS Song, Under revision, 2020. 08. [[arXiv]](https://arxiv.org/abs/2008.10210)
 
   2. "oneM2M-MEC-5G interworking using edge computing (Edge 컴퓨팅 기능을 활용한 oneM2M-MEC-5G 인터워킹)", HS Son, <ins>**JY Hwang**</ins>, JS Song, TTA Journal, 2020. 05. [[TTA Journal]](https://www.tta.or.kr/data/reporthosulist_view.jsp?kind_num=1&hosu=189)
   
