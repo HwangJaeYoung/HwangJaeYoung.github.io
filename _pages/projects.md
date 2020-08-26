@@ -33,7 +33,7 @@ oneM2MTester project is an oneM2M conformance testing project which was initiali
  * Role:
    * oneM2MTester main contributor.
    * The TTCN-3 based oneM2M testing code verification which is being developed by ETSI.
-   * Cooperation with external organizations such as TTA, ETSI, and Ericsson to develop oneM2M testing tool.
+   * Collaboration with external organizations such as TTA, ETSI, and Ericsson to develop oneM2M testing tool.
 
 
 ### Wolrdwide interobability for semantics IoT (Wise-IoT) [14/02/2016 - 23/02/2018]
