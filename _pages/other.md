@@ -13,9 +13,11 @@ author_profile: true
 ## Scholarships/awards:
 * Meteorological Industry Start-up Contest (1st prize, Awarded by KMA administrator), Korea Meteorological Administration (KMA), 2014. 12
   * Prototype development of web/app service using weather big data
+  
 
 * Sejong University Software Development Competition (2nd prize), Department of Computer Engineering, Sejong University, 2014. 11
   * Music service application development using weather data
+
 
 * Sejong University Software Development Competition (2nd prize), Department of Computer Engineering, Sejong University, 2013. 11
   * Role-playing game development (Unity 3D)
