@@ -8,13 +8,19 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Publication:
-  1. <ins>**JY Hwang**</ins>, A Aziz, N Sung, A Ahmad, F Le Gall, J Song, "AUTOCON-IoT: Automated and Scalable Online Conformance Testing for IoT Applications", IEEE Access, 2020, 02. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9016258)  
+  2. "IoT service slicing and task offloading for edge computing", <ins>**JY Hwang**</ins>, L Nkenyereye, NM Sung, JH Kim, JS Song , Under revision, 2020, 08. [[ARXIV]](https://arxiv.org/abs/2008.10210)
+
+  1. oneM2M-MEC-5G interworking using edge computing (Edge 컴퓨팅 기능을 활용한 oneM2M-MEC-5G 인터워킹), HS Son, <ins>**JY Hwang**</ins>, JS Song, TTA Journal, 2020, 05. [[TTA Journal]](https://www.tta.or.kr/data/reporthosulist_view.jsp?kind_num=1&hosu=189)
+  
+  1. "AUTOCON-IoT: Automated and Scalable Online Conformance Testing for IoT Applications", <ins>**JY Hwang**</ins>, A Aziz, N Sung, A Ahmad, F Le Gall, J Song, IEEE Access, 2020, 02. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9016258)  
   
   2. <ins>**JY Hwang**</ins>, HS Son, NM Sung, JH Kim, JS Song, "Internet of Things Identification and Edge Gateway Architecture for Smart City Infrastructure Management (스마트 시티 인프라 관리를 위한 사물인터넷 식별체계 및 엣지 게이트웨이 아키텍처", The Korean Institute of Communications and Information Sciences (KICS), 2019. 10. [[KICS]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09221730)  
   
   3. <ins>**JY Hwang**</ins>, JG An, A Aziz, JH Kim, SM Jeong, JS Song, "Interworking Models of Smart City with Heterogeneous Internet of Things Standards", IEEE Communications Magazine, 2019. 06. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8740798)  
   
   4. Jonggwan An, Franck Le Gall, Jaeho Kim, Jaeseok Yun, <ins>**JY Hwang**</ins>, Martin Bauer, Mengxuan Zhao, Jaeseung Song, "Toward global IoT-enabled smart cities interworking using adaptive semantic adapter", IEEE Internet of Things Journal, 2019. 03. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8667627)  
+  
+  5. <ins>**JY Hwang**</ins>, SM Jeong, JS Song, "Standard trends of smart cities (스마트시티 국내외 표준화 동향)", TTA Journal), 2018, 03. [[TTA]](https://www.tta.or.kr/data/reporthosulist_view.jsp?kind_num=1&hosu=176)
   
   5. Hiun Kim; Abbas Ahmad ; <ins>**JY Hwang**</ins> ; Hamza Baqa ; Franck Le Gall ; Miguel Angel Reina Ortega, JaeSeung Song, "IoT-TaaS: Towards a Prospective IoT Testing Framework", IEEE Access, 2018. 02. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8281514)  
   
@@ -28,6 +34,3 @@ author_profile: true
   3. <ins>**JY Hwang**</ins>, NM Sung, SM Jeong, L Nkenyereye, JS Song, "An Open Source Conformance Testing Tool for Standardized IoT Platforms", The 13th Asis Pacific International Conference on Information Science and Technology (APIC-IST), 2018. 06. [[APICIST]](http://HwangJaeYoung.github.io/files/An_Open_Source_Conformance_Testing_Tool_for_Standardized_IoT_Platforms.pdf)  
   
   4. Jonggwan An, <ins>**JY Hwang**</ins> ; JaeSeung Song, "Interworking technique and architecture for connecting LAN IoT devices towards standardized IoT service layer platform", 2016 IEEE 5th Global Conference on Consumer Electronics, 2016. 05. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/7800513)
-  
-## Magazine Publication:
-  1. <ins>**JY Hwang**</ins>, SM Jeong, JS Song, "Standard trends of smart cities (스마트시티 국내외 표준화 동향)", TTA Journal), 2018, 03. [[TTA]](https://www.tta.or.kr/data/reporthosulist_view.jsp?kind_num=1&hosu=176)
