@@ -10,9 +10,10 @@ author_profile: true
 ### Fast intelligence analysis HW/SW Engine Exploiting IoT Platform for Boosting On-device AI in 5G Environment [11/05/2020 - Current]
 Developing an On-device IoT high-speed intelligent HW and SW engine that improves the speed and precision of intelligent analysis of large scale streamed sensor data through Spatio-temporal context feedback.
 * Role
-  * Verify the feasibility and usability of developed services in the 5G environments
-  * Space-time domain available context and analysis research
-  * Research on how to use existing context information model
+  * Verify the feasibility and usability of developed services in the 5G environments.
+  * Space-time domain available context and analysis research.
+  * Research on how to use existing context information model.
+
 
 ### Autonomous Management framework based on artificial intelligent Technology for adaptive and disposable IoT [07/08/2018 - Current]
 Development of disposable IoT core technology that can be used for one time during the service request time through optimal management of resources even in environments where it is difficult to obtain detailed sensing of physical space and collection through microminiaturization and low cost of IoT devices.
@@ -29,7 +30,7 @@ Secure smart city data by operating the real smart city testbed using IoT techno
 
 
 ### An open source oneM2M conformance testing tool project [22/02/2017 - 16/05/2018]
-oneM2MTester project is an oneM2M conformance testing project which was initialized by Korea Electronics Technology Institute (KETI) in January 2016. The project aims to develop and distribute an open source oneM2M conformance testing tool and associated user manuals. Currently, this tool is introduced as a useful opensource project in oneM2M (http://onem2m.org/developers-corner/tools/open-source-projects)
+oneM2MTester project is an oneM2M conformance testing project which was initialized by Korea Electronics Technology Institute (KETI) in January 2016. The project aims to develop and distribute an open source oneM2M conformance testing tool and associated user manuals. Currently, this tool is introduced as a useful opensource project in oneM2M (http://onem2m.org/developers-corner/tools/open-source-projects).
  * Role:
    * oneM2MTester main contributor.
    * The TTCN-3 based oneM2M testing code verification which is being developed by ETSI.
@@ -39,5 +40,5 @@ oneM2MTester project is an oneM2M conformance testing project which was initiali
 ### Worldwide interoperability for semantics IoT (Wise-IoT) [14/02/2016 - 23/02/2018]
 Wise-IoT is a collaboration project between Europe and Korea. It aims at deepening the interoperability and interworking of IoT's existing systems. The project uses the experiences available in the consortium to build a comprehensive mediation framework that can be used between various IoT systems.
   * Role:
-    * Analyzing the oneM2M and FIWARE IoT standard
-    * Developing the Interworking Proxy Entity (IPE) for oneM2M-FIWARE interworking
+    * Analyzing the oneM2M and FIWARE IoT standard.
+    * Developing the Interworking Proxy Entity (IPE) for oneM2M-FIWARE interworking.
