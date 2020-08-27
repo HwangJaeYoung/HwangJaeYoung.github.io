@@ -11,9 +11,9 @@ author_profile: true
 ------
 Developing an On-device IoT high-speed intelligent HW and SW engine that improves the speed and precision of intelligent analysis of large scale streamed sensor data through Spatio-temporal context feedback.
 * Role
-  * Verify the feasibility and usability of developed services in the 5G environments.
+  * Verify the feasibility and usability of developed services in 5G environments.
   * Space-time domain available context and analysis research.
-  * Research on how to use existing context information model.
+  * Research on how to use the existing context information model.
 
 
 ### Autonomous Management framework based on artificial intelligent Technology for adaptive and disposable IoT [07/08/2018 - Present]
