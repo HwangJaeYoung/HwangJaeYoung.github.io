@@ -10,7 +10,7 @@ author_profile: true
 ### Fast intelligence analysis HW/SW Engine Exploiting IoT Platform for Boosting On-device AI in 5G Environment [11/05/2020 - Current]
 Developing an On-device IoT high-speed intelligent HW and SW engine that improves the speed and precision of intelligent analysis of large scale streamed sensor data through Spatio-temporal context feedback.
 * Role
-  * Verify the feasibility and usability of developed services in the 5G enviromnents
+  * Verify the feasibility and usability of developed services in the 5G environments
   * Space-time domain available context and analysis research
   * Research on how to use existing context information model
 
@@ -33,10 +33,10 @@ oneM2MTester project is an oneM2M conformance testing project which was initiali
  * Role:
    * oneM2MTester main contributor.
    * The TTCN-3 based oneM2M testing code verification which is being developed by ETSI.
-   * Collaboration with external organizations such as TTA, ETSI, and Ericsson to develop oneM2M testing tool.
+   * Collaboration with external organizations such as TTA, ETSI, and Ericsson to develop an oneM2M testing tool.
 
 
-### Wolrdwide interoperability for semantics IoT (Wise-IoT) [14/02/2016 - 23/02/2018]
+### Worldwide interoperability for semantics IoT (Wise-IoT) [14/02/2016 - 23/02/2018]
 Wise-IoT is a collaboration project between Europe and Korea. It aims at deepening the interoperability and interworking of IoT's existing systems. The project uses the experiences available in the consortium to build a comprehensive mediation framework that can be used between various IoT systems.
   * Role:
     * Analyzing the oneM2M and FIWARE IoT standard
