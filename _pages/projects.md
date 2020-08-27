@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Fast intelligence analysis HW/SW Engine Exploiting IoT Platform for Boosting On-device AI in 5G Environment [11/05/2020 - Current]
+### Fast intelligence analysis HW/SW Engine Exploiting IoT Platform for Boosting On-device AI in 5G Environment [11/05/2020 - Present]
 Developing an On-device IoT high-speed intelligent HW and SW engine that improves the speed and precision of intelligent analysis of large scale streamed sensor data through Spatio-temporal context feedback.
 * Role
   * Verify the feasibility and usability of developed services in the 5G environments.
@@ -15,7 +15,7 @@ Developing an On-device IoT high-speed intelligent HW and SW engine that improve
   * Research on how to use existing context information model.
 
 
-### Autonomous Management framework based on artificial intelligent Technology for adaptive and disposable IoT [07/08/2018 - Current]
+### Autonomous Management framework based on artificial intelligent Technology for adaptive and disposable IoT [07/08/2018 - Present]
 Development of disposable IoT core technology that can be used for one time during the service request time through optimal management of resources even in environments where it is difficult to obtain detailed sensing of physical space and collection through microminiaturization and low cost of IoT devices.
  * Role:
    * Design and standardization of information models for managing disposable IoT devices, systems, and applications in Edge computing environments.
