@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Publication:
+------
   1. "IoT service slicing and task offloading for edge computing", <ins>**JY Hwang**</ins>, L Nkenyereye, NM Sung, JH Kim, JS Song, Under revision, 2020. 08. [[arXiv]](https://arxiv.org/abs/2008.10210)
 
   2. "oneM2M-MEC-5G interworking using edge computing (Edge 컴퓨팅 기능을 활용한 oneM2M-MEC-5G 인터워킹)", HS Son, <ins>**JY Hwang**</ins>, JS Song, TTA Journal, 2020. 05. [[TTA Journal]](https://www.tta.or.kr/data/reporthosulist_view.jsp?kind_num=1&hosu=189)
@@ -27,6 +28,7 @@ author_profile: true
   9. "Development and Application of Interoperability Techniques with Semantics for Global Internet of Things (GIoTs) (시맨틱 기술을 활용한 글로벌 사물인터넷 상호연동 기술 개발 및 적용)", <ins>**JY Hwang**</ins>, JG An, HT Joo, CH Lee, JS Song, The Korean Institute of Communications and Information Sciences (KICS), 2017. 11. [[KICS]](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07274688)
 
 ## Conference Publication:
+------
    1. "Modbus and IoT Platform Interworking for Smart Energy Management", H Son, S Elamanov, R Nadia, <ins>**JY Hwang**</ins>, J Song, J Kim, 2019 IEEE International Conference on Industrial Internet (ICII), 2019. 11. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9065020)  
    
    2. "Towards Internet of Things Service Platform using Data Distributed Service Protocol (사물인터넷 플랫폼에서의 데이터 분산 서비스 프로토콜 적용 방안 연구)", SB Bae, <ins>**JY Hwang**</ins>, JS Song, Proceedings of Symposium of the Korean Institute of communications and Information Sciences, 2019. 01. [[KICS]](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08003618)  
