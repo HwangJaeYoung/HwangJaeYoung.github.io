@@ -9,6 +9,9 @@ author_profile: true
 
 ## Scholarships/awards:
 ------
+* Outstanding Research Awards, Sejong University, 2020. 08
+  * A recognition of demonstrated excellence in research during the graduate program.
+
 * Meteorological Industry Start-up Contest (1st prize), Korea Meteorological Administration (KMA), 2014. 12
   * Prototype development of web/app service using weather big data
   
