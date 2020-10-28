@@ -13,7 +13,7 @@ JaeYoung Hwang is currently a researcher at Sejong University in Seoul, Korea. H
 
 Brief History
 ------
-* 2020.11\~Current: Senior Researcher, AI Digital Convergence Dept., Telecommunications Technology Association (TTA), Seohyeon-dong, Republic of Korea  
+* **2020.11\~Current: Senior Researcher, AI Digital Convergence Dept., Telecommunications Technology Association (TTA), Seohyeon-dong, Republic of Korea**  
 * 2020.09\~2020.10: Postdoctral Researcher, Computer and Information Security, Sejong University, Seoul, Republic of Korea  
 * 2015.09\~2020.08: Combined M.S/Ph.D, Computer and Information Security, Sejong University, Seoul, Republic of Korea  
 * 2016.03\~2020.02: Assistant researcher, Autonomous IoT Research Center, Korea Electronics Technology Institute (KETI), Sungnam, Republic of Korea  
